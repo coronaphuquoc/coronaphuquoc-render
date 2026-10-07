@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coronaphuquoc-render.onrender.com/sitemap.xml
